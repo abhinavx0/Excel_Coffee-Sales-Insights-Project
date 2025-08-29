@@ -44,10 +44,14 @@ The dashboard integrates **interactive filters**, **pivot tables**, and **dynami
 ---
 
 ## 📂 Project Structure  
-Coffee-Sales-Dashboard/
+Coffee-Sales-Dashboard
+
 │── Dashboard_Coffee_Sales.xlsx # Main Excel file with dashboard
+
 │── Data/ # Raw sales data
+
 │── Images/ # Dashboard and insights screenshots
+
 │── README.md # Project documentation
 
 ---
@@ -69,7 +73,7 @@ Coffee-Sales-Dashboard/
 ## 📢 Author  
 **Abhinav Ghosh**  
 - 📧 Email: *omabhinav111@gmail.com*  
-- 💼 LinkedIn: *www.linkedin/in/abhinavom*  
+- 💼 LinkedIn: *[www.linkedin/in/abhinavom](https://www.linkedin.com/in/abhinavom/)*  
 
 ---
 ## 🛡️ License
