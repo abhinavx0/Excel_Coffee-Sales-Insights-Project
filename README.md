@@ -3,12 +3,10 @@
 ## 📌 Project Overview  
 This project is an **Excel-based Coffee Sales Dashboard** designed to analyze and visualize coffee sales performance across multiple dimensions such as **time, geography, customer segments, and product types**. It helps track trends, identify top customers, and gain actionable insights to make data-driven decisions.  
 
-The dashboard integrates **interactive filters**, **pivot tables**, and **dynamic charts** to provide a smooth analytical experience.  
----
-
 ## 📈 Dashboard Preview  
 <img width="1226" height="655" alt="Image" src="https://github.com/user-attachments/assets/6f1fd609-0cca-466d-aff7-4bf833798cef" />
 
+###The dashboard integrates **interactive filters**, **pivot tables**, and **dynamic charts** to provide a smooth analytical experience.  
 ---
 
 ## 🛠️ Tools & Features Used  
